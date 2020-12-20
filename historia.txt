@@ -4,4 +4,4 @@ Estudiante de ingenieria en 4to semestre, apasionado por la musica
 y baloncesto
 
 desarrolla web con react
-aprende python
+aprende python3.8
