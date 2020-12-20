@@ -3,5 +3,5 @@ Santiago Herrera Velasquez
 Estudiante de ingenieria en 4to semestre, apasionado por la musica 
 y baloncesto
 
-desarrolla web con angular
-aprende ruby
+desarrolla web con react
+aprende python
